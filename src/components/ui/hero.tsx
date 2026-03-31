@@ -20,7 +20,7 @@ const Hero = () => {
               Your Fitness Companion
             </h3>
             <h1 className="font-gilroy font-extrabold text-[36px] leading-11 md:text-h1 md:leading-14 xl:text-h1 xl:leading-13.5 capitalize text-white">
-              Transform Your <span className="text-[#F5C518]">Exercise</span>
+              Transform Your <span className="text-[#F5C518]">Exercise </span>
               <br className="hidden md:block" />
               Routine Into <span className="text-[#F5C518]">Crypto Rewards</span>
             </h1>
